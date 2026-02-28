@@ -244,3 +244,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 **Note :** Ce projet démontre une architecture professionnelle complète, prête pour la production après intégration d'un backend réel. Le code est structuré, typé, et documenté pour faciliter la maintenance et l'évolution future.
+intégration d'un système de payement pour une version premium
